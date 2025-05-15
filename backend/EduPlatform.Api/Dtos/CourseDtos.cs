@@ -1,3 +1,5 @@
+using System.ComponentModel.DataAnnotations;
+
 // Suggestion: Create a Dtos folder, e.g., backend/EduPlatform.Api/Dtos/CourseDtos.cs
 
 // For creating a course
